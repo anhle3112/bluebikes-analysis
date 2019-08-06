@@ -1,4 +1,4 @@
-# bluebikes-analysis
+## Bluebikes analysis
 The notebook presents initial exploration (mainly descriptive analytics) on the Blue Bikes trip data from January 2019 to June 2019. There are about 774K observations with variables such as Trip Duration, Start Time, Stop Time, Start Station ID/Name/Lat/Long, End Station ID/Name/Lat/Long, Bike ID, User Type, Birth Year and Gender
 
 Data source: https://www.bluebikes.com/system-data 
